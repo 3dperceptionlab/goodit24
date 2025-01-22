@@ -1,0 +1,1 @@
+python train.py --model swin --batch_size 2 --freeze --eval
