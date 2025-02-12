@@ -4,8 +4,6 @@
 
 The current decline in bird species and protected natural areas highlights the importance of providing solutions to improve the understanding of bird biodiversity and its interaction with its environment. This study focuses on the development and application of deep learning architectures for bird action recognition in protected natural areas, specifically in wetlands. Different state-of-the-art deep learning architectures for image and video analysis are explored and applied to compare the suitability of each of the architectures for the scope of the study. An experiment with frame-level and video-level methods was conducted to observe the impact of temporal aggregation on the bird action recognition task. From the experiments, the suitability of video-level approaches, where bird motion is considered for prediction, can be observed. Furthermore, a novel dataset dedicated to the bird action recognition task is presented to train the models of this study.
 
-## Contributors
-
 ## Authors
 
 1. **Javier Rodriguez-Juan**  
